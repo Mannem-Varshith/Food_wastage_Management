@@ -1,4 +1,4 @@
-Zero-Waste - AI Powered Geo-Intelligent Food Donation & Rescue System
+**Zero-Waste - AI Powered Geo-Intelligent Food Donation & Rescue System**
 
 Project Title: Zero-Waste
 

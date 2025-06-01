@@ -16,5 +16,17 @@ Project Explanation: Zero-Waste is an AI-powered, geo-intelligent food donation 
 
 How it Works: Donors Post Food: Donors submit available food with essential details (quantity, type, location). Recipients View Donations: Verified recipients can view available food on an interactive map, filter by distance, type, and freshness, and request a pickup. Automated Logistics: Volunteers or logistics teams are automatically directed to the pickup location for the donation. Tracking and Impact Measurement: The system tracks food donations and their impact on food wastage and hunger relief.
 
-Features for Admin: User and Food Post Moderation: Admin can approve, reject, or flag suspicious activity. Analytics: Track food saved, people served, and CO₂ emissions prevented. Verification: Onboarding verified NGOs and volunteers. Fraud Detection: Flagging of fraudulent users or expired posts.
+Features for Admin: User and Food Post Moderation: Admin can approve, reject, or flag suspicious activity. Analytics: Track food saved, people served, and CO₂ emissions prevented. Verification: Onboarding verified NGOs and volunteers. Fraud Detection: Flagging of fraudulent users or expired posts.![433092694-31aae397-4af3-44ec-b2bf-90d98a79eb0c](https://github.com/user-attachments/assets/cf89862e-ba78-405d-8557-6277802b5916)
+![433092772-965bfb5d-ba10-4b02-ad88-fab76749fb62](https://github.com/user-attachments/assets/2215fedb-985a-45ce-8d58-63384ef9a1eb)
+![433092768-09f36bc1-ada0-4648-825a-acaf1f213129](https://github.com/user-attachments/assets/add1d981-2556-4aab-9928-ade2ff007a3b)
+![433092760-b87b1952-e6b5-4edd-a3a8-05890c4535cd](https://github.com/user-attachments/assets/2fe4ec46-89f1-48f8-b3d4-509de842d316)
+![433092750-6acf1c66-7fc5-4773-b875-6d2cf88279b8](https://github.com/user-attachments/assets/7116000b-602d-462e-82dc-758d6ae06b57)
+![433092744-3f454739-cf2d-40f9-ac0c-4c7e09868072](https://github.com/user-attachments/assets/c696d76a-4db5-4169-aad6-e196d404c0ec)
+![433092731-4c5e62ca-3de8-4000-8104-266e748d7b68](https://github.com/user-attachments/assets/c4ca4fb9-0a0c-4d39-9ab0-70e0c1a125d4)
+![433092725-e94293d8-0897-44aa-a26c-1f4895205696](https://github.com/user-attachments/assets/cc915dec-122b-4ecb-b6ea-73eaaea5c963)
+![433092722-48920231-67ea-4b14-bdce-c58432634ed5](https://github.com/user-attachments/assets/5efe74eb-9454-444c-9ef4-475792c256db)
+![433092716-0ea91b3c-25e7-4c92-a880-b5a84099ee18](https://github.com/user-attachments/assets/b8014a2d-1779-4c55-823a-1e451d38d1c7)
+![433092706-e0cbd9bb-0f98-4566-8c3f-841b07e8701f](https://github.com/user-attachments/assets/11d6eb2c-b0df-4f15-91ce-a0f4f859b9ca)
+![433092699-707d5256-13a6-4b58-b0e0-af37f8851b60](https://github.com/user-attachments/assets/f400a365-a77f-4dbc-8de6-6959e5109547)
+
 
